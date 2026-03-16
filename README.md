@@ -26,3 +26,4 @@ Projeyi yerel ortamınızda çalıştırmak için:
 1. Bağımlılıkları yükleyin:
    ```bash
    flutter pub get
+   flutter run
